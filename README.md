@@ -12,7 +12,7 @@ Fine tune a pre-trained CNN Model (eg. VGGFace) for age detection on the IMDB-Wi
 ##To run this Model yourself
 
 1. Clone this Repository
-2. Downlod the Dataset from the [here] https://www.kaggle.com/datasets/yuulind/imdb-clean
+2. Download the Dataset from the [here] https://www.kaggle.com/datasets/yuulind/imdb-clean
 3. Extract the Dataset to your repository folder
 4. Run the Model [CNNModel] https://github.com/Gaganesh61092/VGGFace-CNN-Model/blob/main/CNNModel.py
 5. Run the notebook
